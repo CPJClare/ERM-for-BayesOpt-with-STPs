@@ -3,4 +3,6 @@ Conference paper, US publisher: "Expected Regret Minimization for Bayesian optim
 
 https://dl.acm.org/doi/10.1145/3430199.3430218
 
-The experiments were performed in Jupyter Notebook, run on Linux (Ubuntu 18.04)
+Includes all published conference paper experiments i.e. Python code, results and graphs.
+
+The experiments were each performed in Jupyter Notebook, run on a Linux (Ubuntu 18.04) installation.
